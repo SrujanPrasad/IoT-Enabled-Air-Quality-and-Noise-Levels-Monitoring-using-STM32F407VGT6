@@ -60,6 +60,8 @@ Rapid urbanization and industrialization have led to an alarming increase in air
 
 ![PXL_20250107_101925839](https://github.com/user-attachments/assets/ad98f862-2b50-4f16-9f09-61485e546820) 
 
+<img width="1303" height="441" alt="image" src="https://github.com/user-attachments/assets/07231dba-9d24-430e-9fe8-2374e33c8e1b" />
+
 
 ## Key Outcomes
 
