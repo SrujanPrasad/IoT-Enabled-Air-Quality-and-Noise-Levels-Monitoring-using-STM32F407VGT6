@@ -1,0 +1,2 @@
+../Core/Src/esp01.c:9:6:ESP_Init	136	static
+../Core/Src/esp01.c:27:6:ESP_SendData	344	static

@@ -1,0 +1,8 @@
+../Core/Src/mq135.c:34:6:MQ135_Init	1
+../Core/Src/mq135.c:39:7:calculateResistance	1
+../Core/Src/mq135.c:45:7:applyExponentialSmoothing	1
+../Core/Src/mq135.c:51:7:calculatePPM	1
+../Core/Src/mq135.c:56:7:calculateAQISubIndex	4
+../Core/Src/mq135.c:67:6:getStandardTempHumidity	1
+../Core/Src/mq135.c:73:7:compensateForTempHumidity	1
+../Core/Src/mq135.c:82:7:MQ135_ReadPPM	2
